@@ -4,3 +4,4 @@ checks for bans in jartex website , using puppeteer
 
 #how to setup
 if u are lazy to install stuff just run the setup.sh file
+by clicking on it 
