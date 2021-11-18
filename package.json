@@ -1,0 +1,17 @@
+{
+  "name": "Jartex-Bans",
+  "version": "0.3.6",
+  "description": "Fetching Bans",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Northern_Star#1394",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.2.0",
+    "nodemon": "^2.0.13",
+
+    "puppeteer": "^10.4.0",
+  }
+}
